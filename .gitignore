@@ -3,6 +3,7 @@ __pycache__/
 *.pyc
 *.log
 .DS_Store
+writeup/*
 
 # LaTeX build files (writeup.tex and writeup.pdf are kept)
 writeup/*.aux
