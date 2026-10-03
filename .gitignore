@@ -1,0 +1,20 @@
+venv/
+__pycache__/
+*.pyc
+*.log
+.DS_Store
+
+# LaTeX build files (writeup.tex and writeup.pdf are kept)
+writeup/*.aux
+writeup/*.log
+writeup/*.out
+writeup/*.fls
+writeup/*.fdb_latexmk
+writeup/*.synctex.gz
+
+# the archive is redundant with the unpacked data/spheres/
+data/spheres.zip
+
+# stale outputs from early experiments; keep the P8 ablation runs the writeup cites
+results/old/*
+!results/old/ablate_*/

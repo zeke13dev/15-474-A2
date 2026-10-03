@@ -1,0 +1,92 @@
+{
+  "fixed/coffee/256": {
+    "psnr": 26.15073095429185,
+    "count": 256,
+    "seconds": 27
+  },
+  "fixed/coffee/1024": {
+    "psnr": 31.880803588299212,
+    "count": 1024,
+    "seconds": 54
+  },
+  "fixed/coffee/4096": {
+    "psnr": 38.209688139517574,
+    "count": 4096,
+    "seconds": 121
+  },
+  "fixed/astronaut/256": {
+    "psnr": 21.64741036015519,
+    "count": 256,
+    "seconds": 28
+  },
+  "fixed/astronaut/1024": {
+    "psnr": 27.466737256774934,
+    "count": 1024,
+    "seconds": 44
+  },
+  "fixed/astronaut/4096": {
+    "psnr": 36.928404989978404,
+    "count": 4096,
+    "seconds": 112
+  },
+  "fixed/cat/256": {
+    "psnr": 27.38200424169838,
+    "count": 256,
+    "seconds": 25
+  },
+  "fixed/cat/1024": {
+    "psnr": 31.557346416354942,
+    "count": 1024,
+    "seconds": 44
+  },
+  "fixed/cat/4096": {
+    "psnr": 40.71623795305696,
+    "count": 4096,
+    "seconds": 113
+  },
+  "densify/coffee/256": {
+    "psnr": 27.14374842094424,
+    "count": 256,
+    "seconds": 37
+  },
+  "densify/coffee/1024": {
+    "psnr": 34.22484797513219,
+    "count": 827,
+    "seconds": 52
+  },
+  "densify/coffee/4096": {
+    "psnr": 37.989628092016375,
+    "count": 1699,
+    "seconds": 66
+  },
+  "densify/astronaut/256": {
+    "psnr": 22.326705701656092,
+    "count": 256,
+    "seconds": 28
+  },
+  "densify/astronaut/1024": {
+    "psnr": 29.87771702374895,
+    "count": 1024,
+    "seconds": 53
+  },
+  "densify/astronaut/4096": {
+    "psnr": 35.41831622134345,
+    "count": 2014,
+    "seconds": 72
+  },
+  "densify/cat/256": {
+    "psnr": 28.094827954782584,
+    "count": 256,
+    "seconds": 33
+  },
+  "densify/cat/1024": {
+    "psnr": 31.553001258090315,
+    "count": 663,
+    "seconds": 36
+  },
+  "densify/cat/4096": {
+    "psnr": 36.19512759995273,
+    "count": 1688,
+    "seconds": 54
+  }
+}
